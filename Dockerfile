@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM openjdk:17-jdk-alpine
+FROM openjdk:21-jdk-alpine
 
 # Add Maintainer Info
 LABEL maintainer="seyiolawepo@gmail.com"
